@@ -2,7 +2,7 @@
 A Minecraft Spigot plugin that allow you to execute some actions (like commands) when a player change world.  Support PlaceHolderAPI
 
 ## Requirements 
-* PlaceHolderAPI (optional) if you want to use PlaceHolderAPI placeholders (see configuration). 
+* [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) (optional) if you want to use [PlaceHolderAPI placeholders](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders) (see configuration). 
 * Spigot or Paper 1.16.4 (others version not tested)
 
 ## Configuration 
