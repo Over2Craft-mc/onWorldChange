@@ -1,9 +1,9 @@
 # onWorldChange
-A Minecraft Spigot plugin that allow you to execute some actions (like commands) when a player change world.  Support PlaceHolderAPI
+A Minecraft [Spigot](https://www.spigotmc.org/) plugin that allow you to execute some actions (like commands) when a player change world.  Support PlaceHolderAPI
 
 ## Requirements 
 * [PlaceHolderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) (optional) if you want to use [PlaceHolderAPI placeholders](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders) (see configuration). 
-* Spigot or Paper 1.16.4 (others version not tested)
+* [Spigot](https://getbukkit.org/download/spigot) or [Paper 1.16.4](https://papermc.io/downloads#Paper-1.16) (others version not tested)
 
 ## Configuration 
 http://over2craft-mc.github.io/onWorldChange/src/main/resources/config.yml
