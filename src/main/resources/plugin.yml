@@ -1,0 +1,17 @@
+name: onWorldChange
+version: 1.0
+author: Over2Craft
+main: com.over2craft.onWorldChange.Main
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  onWorldChangereload:
+    description: Reload onWorldChange configuration
+    permission: over2craft.onWorldChange.reload
+
+permissions:
+  over2craft.onWorldChange.reload:
+    description: Allows onWorldChangereload command
+    default: op
+
