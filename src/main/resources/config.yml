@@ -1,6 +1,6 @@
 onJoin:
 
-  # Name this as you wish. It represent a set of world(s) on which some actions well be executed when a player join
+  # Name this as you wish. It represent a set of world(s) on which some actions will be executed when a player join
   # If you have multiple set of world(s) matching the same world(s), actions will be executed in the same order defined here.
   # With this configuration example if a player join the world named "world",
   # action defined in "all" will be executed and then actions defined in "build"
