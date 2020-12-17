@@ -3,6 +3,7 @@ A Minecraft Spigot plugin that allow you to execute some actions (like commands)
 
 ## Requirements 
 * PlaceHolderAPI (optional) if you want to use PlaceHolderAPI placeholders (see configuration). 
+* Spigot or Paper 1.16.4 (others version not tested)
 
 ## Configuration 
 http://over2craft-mc.github.io/onWorldChange/src/main/resources/config.yml
